@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - main fonction
- *
+ * main - A program that prints the size of various computer types
  * Retern: 0 on success
  */
 
